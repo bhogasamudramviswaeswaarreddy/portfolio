@@ -1,0 +1,15 @@
+{
+  "basics": {
+    "name": "Visweswar Reddy Bogasamudram",
+    "label": "Full-Stack Developer",
+    "email": "visswasawarreddy6300@gmail.com",
+    "phone": "+91 6300212135",
+    "location": { "region": "AP", "country": "India" }
+  },
+  "skills": ["React","JavaScript","Node.js","Python","Firebase","SQL"],
+  "projects": [
+    {"name":"NxtTrendz","description":"E-commerce platform with React and JWT authentication"},
+    {"name":"NxtWatch","description":"YouTube clone with dynamic routing"},
+    {"name":"Project Cost Tracker","description":"Expense manager with Firebase realtime updates"}
+  ]
+}

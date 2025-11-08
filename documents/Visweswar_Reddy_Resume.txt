@@ -1,0 +1,28 @@
+Visweswar Reddy Bogasamudram
+Full-Stack Developer
+
+Email: visswasawarreddy6300@gmail.com
+Phone: +91 6300212135
+Location: Rayalacheruvu, AP, India
+
+Summary:
+Full-stack developer with experience building React + Node applications, Firebase, and responsive UIs. Strong in JavaScript, Python, SQL, and problem solving.
+
+Skills:
+- React, JavaScript (ES6+), HTML5, CSS3
+- Node.js, Express.js, REST APIs
+- Firebase, SQLite, SQL
+- Redux, Git, Responsive Design
+
+Experience Highlights:
+- Built NxtTrendz (e-commerce) with React and JWT authentication.
+- Built NxtWatch (YouTube clone) with dynamic routing.
+- Built Project Cost Tracker with Firebase and real-time updates.
+
+Education & Certifications:
+- Programming Foundations with Python — NxtWave CCBP 4.0 Academy
+- Machine Learning for Engineering and Science Applications — NPTEL (IIT Madras)
+- Frontend Development Internship — Innomatics Research Labs
+- Cisco Python Essentials
+
+Download resume and vCard from this site.
